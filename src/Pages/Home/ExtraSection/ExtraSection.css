@@ -1,0 +1,22 @@
+.extra-section {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+
+}
+
+.extra-img {
+    width: 90%;
+}
+
+.extra-container {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 35px;
+}
+
+@media only screen and (max-width:576px) {
+    .extra-section {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

@@ -1,0 +1,44 @@
+.service {
+    border: none;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    padding: 10px 30px;
+    box-shadow: 1px 5px 20px 0px #170d0d4a;
+    background-color: #86c23237;
+}
+
+.service h2 {
+    color: #375f00;
+    margin-top: 15px;
+}
+
+.service-img {
+    width: 100%;
+}
+
+.service-button {
+    background-color: #86C232;
+    padding: 10px 30px;
+    border: none;
+    color: rgb(251, 251, 251);
+    text-decoration: none;
+    box-shadow: 1px 5px 20px 0px #170d0d4a;
+}
+
+.desc {
+    margin-bottom: 30px;
+}
+
+.service-button:hover {
+    color: #fff;
+    padding: 13px 33px;
+    background-color: #63aa00;
+    transition: .5s ease-in-out;
+}
+
+@media only screen and (max-width:576px) {
+    .extra-section {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

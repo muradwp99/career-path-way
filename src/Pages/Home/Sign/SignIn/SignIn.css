@@ -1,0 +1,14 @@
+.signin-form {
+    width: 40%;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+.sign-btn {
+    background-color: #86c232;
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 5px;
+}

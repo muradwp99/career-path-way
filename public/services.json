@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Confidence Gaining",
+        "description": "To gain Confidence on must have to be patient and be a best friend a mentor of your self...",
+        "img": "./images/career 1.png",
+        "price": 547
+    },
+    {
+        "id": 2,
+        "title": "Skills Development",
+        "description": "In our life success means we have done something which nobody could and that depends on what skills set you have to gain this...",
+        "img": "./images/career 2.png",
+        "price": 475
+    },
+    {
+        "id": 3,
+        "title": "Self Awareness",
+        "description": "Not the selfish person you need to be grow you just need to be a person who is aware of what self needs...",
+        "img": "./images/career 3.png",
+        "price": 378
+    }
+]

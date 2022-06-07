@@ -1,0 +1,11 @@
+.about-container {
+    width: 50%;
+    text-align: center;
+}
+
+.About-pic {
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 3px 33px 5px rgba(70, 70, 70, 0.301)
+}

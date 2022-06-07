@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-color {
+    background-color: #86C232;
+    height: 50px;
+
+
+}
+
+.nav-bg {
+    background-color: #86C232;
+
+}
+
+.nav-width {
+    background-color: #86C232;
+
+}
+
+.nav-title {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px 10px;
+}
+
+.nav-title:hover {
+    color: white;
+    background-color: #5a9a00;
+    padding: 10px 10px;
+}
+
+.Brand {
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    font-family: cursive;
+    text-decoration: none;
+}
